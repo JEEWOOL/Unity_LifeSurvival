@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RSlime
+  m_Controller: {fileID: 9100000, guid: a0728f4ed85b4744c99d4c10cb63b2c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a30079926938486449a83d9faf24159e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2f20cb6dfcac2d043be47870ac657a3b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2ca59aada8fbbe940985fafd17b3e764, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92170d8c6823658438d6a8ac4fd8888b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e11c900da567b6041943165a0bc612f5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1389be665d5d5764299442b4d3da16ea, type: 2}
